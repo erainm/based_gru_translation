@@ -1,0 +1,2 @@
+# based_gru_translation
+基于GRU实现英法的文本翻译案例
